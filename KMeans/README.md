@@ -13,3 +13,6 @@ This folder contains the following files:
   2. Dunn_index.png
   
   3. Davis_Bouldin_index.png
+## Dataset
+
+MNIST
