@@ -1,2 +1,2 @@
 # Pattern-recognition
-This repository contains the task completed for Pattern recognition course
+This repository contains the projects for the Pattern recognition course (University of Friburg)
