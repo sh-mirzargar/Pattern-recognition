@@ -1,1 +1,9 @@
+# Group project, part b
+
+## Authors
+
+Meisam Asgari Jirhandeh, Seyedeh Sharareh Mirzargar, Maxence Feller, Yanisa Butphrom, Atefeh Fakhari
+
+## Description
+
 Apply MLP to the MNIST dataset. MLP with one hidden layer. Optimize parameters using cross-validation.
