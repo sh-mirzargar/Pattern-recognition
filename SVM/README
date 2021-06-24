@@ -1,0 +1,1 @@
+Apply SVM to the full MNIST dataset. Investigate at least two kernels: e.g. linear, and RBF. Optimize parameters using cross-validation.
